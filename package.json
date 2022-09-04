@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "novo projeto",
   "main": "src/index.html",
-  "scripts": {
+  "scripts": { 
+    "start":"npx live-server src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
