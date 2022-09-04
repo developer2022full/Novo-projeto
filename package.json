@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "novo projeto",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer2022full/Novo-projeto.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "jrfson\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[e\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer2022full/Novo-projeto/issues"
+  },
+  "homepage": "https://github.com/developer2022full/Novo-projeto#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
